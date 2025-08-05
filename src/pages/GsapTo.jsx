@@ -10,6 +10,7 @@ const GsapTo = () => {
       repeat: -1,
       yoyo: true,
       rotate: 360,
+      borderRadius: "50%",
     })
   }, []);
 
